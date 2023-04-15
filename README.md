@@ -1,8 +1,8 @@
-##Software Design Weekly Assignments:
+## Software Design Weekly Assignments:
 
-#Monday:
+# Monday:
     Lab1: Github
     Lab2: Unit tests
 
-#Tuesday:
+# Tuesday:
     None
