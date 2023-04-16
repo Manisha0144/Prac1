@@ -6,3 +6,12 @@
 
 # Tuesday:
     None
+
+# Wednesday:
+    Lecture
+
+#Thurday:
+    Group meeting
+    
+# Friday:
+    None
