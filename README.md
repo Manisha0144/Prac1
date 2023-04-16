@@ -10,7 +10,7 @@
 # Wednesday:
     Lecture
 
-#Thurday:
+# Thurday:
     Group meeting
     
 # Friday:
